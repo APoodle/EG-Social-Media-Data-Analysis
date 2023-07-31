@@ -16,6 +16,7 @@ To fully understand the process and the concepts used for this project, I would 
 This is the architecture of the project, it is very simple and can be seen through the diagram below
 
 ![Architecture](https://mermaid.ink/img/pako:eNp9kcFuwyAQRH9lxdn-AR8qJdiRIrlV5VTJxZetwTEqBgvWbVPsfy8mqtReyomF4c1oCKyzQrKC9dp-dAM6grppDcS1C6HZXYCfznA41hX06Ise815pmXf-fV0hzx8WriUaKJEQLooGeL7RYE0Uv27iKU0L7EPgdbV7-od2N90naPVJDjvK4MWh8b11YwZoBNQWxQI8hIOK09F4dR3IpyvuJJKEs_IzavWFpKzxf2P8ePDkERGbUC5QJh5qaORkYwG_o02i356xjI3SjahErCpsmJbRIEfZsiJuBbq3lrVmjTqcyZ5upmMFuVlmbJ5EDFYqvDocWQRrH0-lUGTd47379AXrN6mXhlo?type=png)
+_<div align="right">Diagram made with mermaid</div>_
 
 The project's architecture follows just two steps:
 - Data Cleaning: The raw data is processed and cleaned
